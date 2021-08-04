@@ -1,0 +1,23 @@
+{
+  "name": "blockchain_typescript",
+  "version": "1.0.0",
+  "description": "Learning TypeScript by making a Blockchain with it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && cd dist && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShinLeejong/typescript_simpleblockchain_by_nomadcoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShinLeejong/typescript_simpleblockchain_by_nomadcoder/issues"
+  },
+  "homepage": "https://github.com/ShinLeejong/typescript_simpleblockchain_by_nomadcoder#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
